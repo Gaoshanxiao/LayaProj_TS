@@ -121,51 +121,6 @@
 					"child":[]
 				}
 			]
-		},
-		{
-			"type":"Camera",
-			"props":{
-				"isStatic":false,
-				"name":"Camera",
-				"clearFlag":1,
-				"orthographic":false,
-				"fieldOfView":60,
-				"nearPlane":0.3,
-				"farPlane":1000
-			},
-			"customProps":{
-				"layer":0,
-				"translate":[
-					0,
-					1.04,
-					-2.17
-				],
-				"rotation":[
-					0,
-					1,
-					0,
-					0
-				],
-				"scale":[
-					1,
-					1,
-					1
-				],
-				"viewport":[
-					0,
-					0,
-					1,
-					1
-				],
-				"clearColor":[
-					0.1921569,
-					0.3019608,
-					0.4745098,
-					0
-				]
-			},
-			"components":{},
-			"child":[]
 		}
 	]
 }
